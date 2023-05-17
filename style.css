@@ -4,7 +4,7 @@
    
 }
 #cabecalho{
-    color: yellow;
+    color: rgb(0, 255, 174);
     text-align: center;
     display: flex;
     justify-content: space-around;
@@ -12,7 +12,7 @@
 }
 body{
    
-background-color: hsla(241, 100%, 46%, 0.418);
+background-color: hsla(0, 100%, 50%, 0.932);
 }
 #jardim{
     width: 100px;
@@ -46,8 +46,8 @@ background-color: hsla(241, 100%, 46%, 0.418);
     font-size: 24px;
 }
 #alunos{
-    width: 120px;
-    height: 120px;
+    width: 50px;
+    height: 50px;
    
 }
 #estudante-icone{
