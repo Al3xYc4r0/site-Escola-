@@ -4,7 +4,7 @@
    
 }
 #cabecalho{
-    color: rgb(1, 254, 26);
+    color: yellow;
     text-align: center;
     display: flex;
     justify-content: space-around;
@@ -24,7 +24,7 @@ background-color: hsla(241, 100%, 46%, 0.418);
 }
 
 #escola{
-    color: rgb(255, 0, 0);
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -56,3 +56,6 @@ background-color: hsla(241, 100%, 46%, 0.418);
 #estudante-div{
     text-align: center;
 }
+#estudante-todos{
+    display: grid;
+    grid-template-columns: 20%  20%  20%  20%;
